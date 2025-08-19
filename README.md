@@ -27,10 +27,8 @@ Savings Sphere is a web-based e-commerce platform developed as part of a Softwar
 ## Project Vision
 Savings Sphere empowers customers to save money while shopping online, ensures product authenticity, and provides notifications and coupon management in a single, convenient application. Unlike other platforms, it combines smart shopping features in one solution, helping users make informed decisions and optimize their spending.
 
-## Optional: Screenshots / Demo
-(Add screenshots of the application, or a link to a live demo if available.)
-
 ## Folder Structure
+
 Savings-Sphere-Ecommerce/
 ├── backend/ # Node.js backend API and server
 ├── frontend/ # React.js frontend application
@@ -40,4 +38,4 @@ Savings-Sphere-Ecommerce/
 
 ## Contribution
 This project was developed collaboratively by the Software Engineering course team. Contributions to extend or improve the platform are welcome.
-EOL
+
