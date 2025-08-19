@@ -1,25 +1,3 @@
-# Savings Sphere: E-Commerce Platform Project
-
-## Overview
-Savings Sphere is a team project from the Software Engineering course, focused on an e-commerce platform providing cost-saving, product authenticity, and customer convenience features.
-
-## Features
-- Paperless warranty management  
-- Expiry notifications  
-- Coupon and offer integration  
-- Secure checkout system
-
-## Repository Structure
-- `src/` – Source code  
-- `docs/` – Project documentation  
-- `assets/` – Supporting files (images, datasets, etc.)  
-- `README.md` – Project overview
-
-## Contribution
-This project was a team effort; equal contributions were made by all members.
-
-## License
-Academic use only
 Title of our project is savings sphere.
 
 Development Platform:
